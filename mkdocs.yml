@@ -1,1 +1,3 @@
 site_name: Darmas-web
+theme:
+    name: readthedocs
